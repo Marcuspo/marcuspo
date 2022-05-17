@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Marcus Pontes(i'm not the astronaut)
 
 - 🔭 Hoje trabalho com React Native 
-- 💬 Pergunte-me sobre ciclismo
 
 
 
