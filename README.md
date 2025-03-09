@@ -10,10 +10,6 @@
 
 Com uma base sólida em desenvolvimento frontend, destacando-me na gestão de equipes de desenvolvimento para projetos mobile. Minha expertise técnica é reforçada por habilidades de comunicação e resolução de problemas, permitindo uma interação eficaz com todas as partes interessadas e impulsionando o sucesso empresarial por meio da inovação tecnológica.
 
-### Experiência:
-
-- **Implementação de arquitetura, desenvolvimento, implantação e manutenção de aplicativos móveis** usando React Native (iOS e Android).
-
 ### Habilidades:
 
 - **Linguagem de programação:** Javascript, Typescript
